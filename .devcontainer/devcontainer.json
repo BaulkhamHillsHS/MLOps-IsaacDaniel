@@ -39,13 +39,7 @@
         "terminal.integrated.fontFamily": "monospace",
         "workbench.colorTheme": "Default Dark+",
         "workbench.iconTheme": "vscode-icons",
-        "github.copilot.enable": {
-          "*": true,
-          "python": false,
-          "html": false,
-          "css": false,
-          "sql": false
-        }
+        "github.copilot.enable": false
       },
       "extensions": [
         "McCarter.start-git-bash",
